@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Now UI React Native",
-    "slug": "now-ui-react-native",
+    "name": "Wise Smoke",
+    "slug": "Wise_Smoke",
     "privacy": "public",
     "platforms": [
       "ios",
@@ -24,6 +24,6 @@
     "ios": {
       "supportsTablet": true
     },
-    "description": "Now UI React Native, based on Now UI Design System. Coded by Creative Tim"
+    "description": "흡연자들의 권익을 향상시키기 위해 제작된 앱입니다."
   }
 }

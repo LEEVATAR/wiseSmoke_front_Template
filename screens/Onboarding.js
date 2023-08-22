@@ -32,8 +32,8 @@ export default class Onboarding extends React.Component {
                     color="white"
                     size={44}
                   >
-                    Now UI
-                    React Native
+                    와이즈스모킹이에요ㅎㅎ;;
+
                   </Text>
                 </Block>
               </Block>
@@ -43,7 +43,7 @@ export default class Onboarding extends React.Component {
                   size={16}
                   style={{ fontFamily: 'montserrat-regular' }}
                 >
-                  Designed by
+                  리액트네이티브너무 좆같아요 ㅎㅎ..
                 </Text>
                 <Image
                   source={Images.InvisionLogo}
@@ -61,6 +61,7 @@ export default class Onboarding extends React.Component {
                   style={{ fontFamily: 'montserrat-regular' }}
                 >
                   Coded by
+                  mister Lee
                 </Text>
                 <Image
                   source={Images.CreativeTimLogo}
@@ -89,7 +90,7 @@ export default class Onboarding extends React.Component {
                     style={{ fontFamily: 'montserrat-bold', fontSize: 14 }}
                     color={theme.COLORS.WHITE}
                   >
-                    GET STARTED
+                    드가자잇
                   </Text>
                 </Button>
               </Block>
