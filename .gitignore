@@ -1,11 +1,9 @@
-node_modules/**/*
-.expo/*
+# .expo/*
 npm-debug.*
-package-lock.json
+# package-lock.json
 yarn.lock
 *.jks
 *.p12
 *.key
 *.mobileprovision
 .DS_Store
-
